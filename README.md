@@ -1,3 +1,0 @@
-# tdd-intro
-
-ic
