@@ -29,7 +29,7 @@ class MyStack {
         this.__stack = [...this.__stack, element]
     }
 
-    pop(element){
+    pop(){
         if(this.size() === 0){
             throw new Error('CANNOT_POP_EMPTY_STACK')
         }

@@ -13,6 +13,10 @@ class MyStack {
         this.stack = []
     }
 
+    getSize(){
+        return null
+    }
+
     size(){
         return null
     }
@@ -21,7 +25,7 @@ class MyStack {
         return null
     }
 
-    pop(element){
+    pop(){
         return null
     }
 }
