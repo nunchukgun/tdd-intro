@@ -51,8 +51,8 @@ The UserInfoController should have the two following methods:
   * throw a descriptive error if this is not present or falsy.
 ###### Returns
 * An object of the following form:
-> {
->    name: "John McKeever",
->    phone: "123-456-7899",
->    address: "55 Some Road Lane"
-> }
+``` {
+        name: "John McKeever",
+        phone: "123-456-7899",
+        address: "55 Some Road Lane"
+``` }
