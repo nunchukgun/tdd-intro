@@ -35,4 +35,4 @@ The goal of this exercise is to use an ES6 class to build a stack. Please note t
  * If a push is attempted when the stack is at maximum size, throw a descriptive error.
 * The stack must be able to pop off the last element added to it, returning that element and reducing the size of the stack.
  If a pop is attempted when the stack is empty, throw a descriptive error.
-* ***You may not use Javascript's native array `push` and `pop` methods.
+* ***You may not use Javascript's native array `push` and `pop` methods.***
