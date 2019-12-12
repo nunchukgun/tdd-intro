@@ -31,6 +31,7 @@ The goal of this exercise is to use an ES6 class to build a stack. Please note t
 
 * The stack must be an internal variable of the MyStack class.
 * The stack must have a method to retrieve its size.
+* The stack must have a method to retrieve the internal variable used to store the stack.
 * The stack must be able to push elements onto itself, to a maximum of 10.
  * If a push is attempted when the stack is at maximum size, throw a descriptive error.
 * The stack must be able to pop off the last element added to it, returning that element and reducing the size of the stack.
