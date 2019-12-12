@@ -1,6 +1,6 @@
 import MyStack from '../stack_solution'
 
-describe.only('MyStack', () => {
+describe('MyStack', () => {
     let stack
 
     beforeEach(() => {
