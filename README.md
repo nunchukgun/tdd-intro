@@ -48,7 +48,7 @@ The UserInfoController should have the two following methods:
 #### getUser
 ##### Params
 * id - an integer which will serve as a pretend primary key for the user concept
- * throw a descriptive error if this is not present or falsy.
+  * throw a descriptive error if this is not present or falsy.
 ##### Returns
 * An object of the following form:
 > {
