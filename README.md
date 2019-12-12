@@ -24,3 +24,15 @@ Given an array of integers or integer-like strings, build a new array in which:
 * Numbers divisible by 3 are replaced with "Fizz"
 * Numbers divisible by 5 are replaced with "Buzz"
 * Numbers divisible by 15 are replaced with "FizzBuzz"
+
+### Stack
+
+The goal of this exercise is to use an ES6 class to build a stack. Please note the following parameters:
+
+* The stack must be an internal variable of the MyStack class.
+* The stack must have a method to retrieve its size.
+* The stack must be able to push elements onto itself, to a maximum of 10.
+ * If a push is attempted when the stack is at maximum size, throw a descriptive error.
+* The stack must be able to pop off the last element added to it, returning that element and reducing the size of the stack.
+ If a pop is attempted when the stack is empty, throw a descriptive error.
+* ***You may not use Javascript's native array `push` and `pop` methods.
