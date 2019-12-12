@@ -62,7 +62,7 @@ The UserInfoController should have the two following methods:
 
 #### getAllUsers
 ###### Returns
-* A list of objects of the following form:
+* An array of objects of the following form:
 ``` 
     {
         name: "John McKeever",
