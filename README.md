@@ -42,6 +42,7 @@ The goal of this exercise is to use an ES6 class to build a stack. Please note t
 
 The goal of this exercise is to build a controller for a User Info service.
 ***Note:*** The `ExternalApiFetcher.js` file has been built for your convenience. Do not modify it.
+Instead, you'll have to mock out that dependency.
 
 The UserInfoController should have the two following methods:
 
@@ -51,6 +52,17 @@ The UserInfoController should have the two following methods:
   * throw a descriptive error if this is not present or falsy.
 ###### Returns
 * An object of the following form:
+``` 
+    {
+        name: "John McKeever",
+        phone: "123-456-7899",
+        address: "55 Some Road Lane"
+    }
+```
+
+#### getAllUsers
+###### Returns
+* A list of objects of the following form:
 ``` 
     {
         name: "John McKeever",
