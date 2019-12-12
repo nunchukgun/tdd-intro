@@ -9,8 +9,7 @@ The purpose of this repo is to provide developers with a series of basic exercis
 their TDD skills.
 
 To run tests in this repo, use:
-
-### `npm test`
+`npm test`
 
 ## Exercises
 
