@@ -46,10 +46,10 @@ The goal of this exercise is to build a controller for a User Info service.
 The UserInfoController should have the two following methods:
 
 #### getUser
-##### Params
+###### Params
 * id - an integer which will serve as a pretend primary key for the user concept
   * throw a descriptive error if this is not present or falsy.
-##### Returns
+###### Returns
 * An object of the following form:
 > {
 >    name: "John McKeever",
