@@ -1,4 +1,4 @@
-#TDD Intro
+# TDD Intro
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app),
 which is why you'll see a bunch of unnecessary stuff in this repo.
