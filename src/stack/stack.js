@@ -3,7 +3,7 @@ class MyStack {
         this.stack = []
     }
 
-    getSize(){
+    getStack(){
         return null
     }
 
