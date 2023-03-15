@@ -16,5 +16,5 @@ export const getUserInfo = async (id) => {
  * @returns - an array of the above-defined user objects
  */
 export const getAllUserInfo = async () => {
-    throw new Error("getUsers should be mocked!")
+    throw new Error("getAllUserInfo should be mocked!")
 }
